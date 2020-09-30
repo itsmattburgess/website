@@ -1,6 +1,6 @@
 My personal website and resume hosted within S3.
 
-## Compiling css
+## Compiling Cascading Style Sheet (CSS)
 ```
 sass --watch css/main.scss:css/main.css --style compressed
 ```
