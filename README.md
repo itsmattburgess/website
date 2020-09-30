@@ -9,3 +9,6 @@ sass --watch css/main.scss:css/main.css --style compressed
 ```
 aws s3 sync . s3://itsmattburgess.co.uk --exclude ".*" --exclude "*/.sass-cache/*" --storage-class=REDUCED_REDUNDANCY --sse --acl=public-read
 ```
+### Thank You For Taking Intrest In Us
+
+[END]
