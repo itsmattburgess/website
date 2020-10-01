@@ -1,4 +1,4 @@
-My personal website and resume hosted within S3.
+My  new personal WEBSITE and Resume hosted within S3.Hope it helps you and you have a great day
 
 ## Compiling css
 ```
