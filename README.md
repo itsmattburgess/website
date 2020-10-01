@@ -1,4 +1,4 @@
-My personal website and resume hosted within S3.
+My resume within S3.
 
 ## Compiling css
 ```
