@@ -1,5 +1,5 @@
 My personal website and resume hosted within S3.
-
+Looking good
 ## Compiling css
 ```
 sass --watch css/main.scss:css/main.css --style compressed
