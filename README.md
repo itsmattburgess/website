@@ -1,5 +1,7 @@
 My personal website and resume hosted within S3.
 
+##Example of compiling css and uploading to S3
+
 ## Compiling css
 ```
 sass --watch css/main.scss:css/main.css --style compressed
