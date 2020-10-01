@@ -1,4 +1,4 @@
-My resume within S3.
+My Portfolio website within S3.
 
 ## Compiling css
 ```
