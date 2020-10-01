@@ -1,4 +1,4 @@
-My personal website and resume hosted within S3.
+amazing website for users
 
 ## Compiling css
 ```
