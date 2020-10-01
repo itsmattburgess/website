@@ -16,7 +16,7 @@
         <meta property="og:url" content="http://itsmattburgess.co.uk">
         <meta property="og:title" content="Matt Burgess - Software Engineer">
         <meta property="og:image" content="http://itsmattburgess.co.uk/img/me.png">
-        <meta property="og:description" content="Hi! It's Matt Burgess here. I'm an experienced PHP developer with a wide range of SaaS skills looking to move my focus to infrastructure automation and architecture.">
+        <meta property="og:description" content="Hi..! It's Matt Burgess here. I'm an experienced PHP developer with a wide range of SaaS skills looking to move my focus to infrastructure automation and architecture.">
         <meta property="og:site_name" content="Matt Burgess - Software Engineer">
         <meta property="og:locale" content="en_GB">
     </head>
@@ -175,7 +175,7 @@
                             var yourString = item.description.replace(/<img[^>]*>/g,"");
                             var maxLength = 250
                             var trimmedString = yourString.substr(0, maxLength);
-                            trimmedString = trimmedString.substr(0, Math.min(trimmedString.length, trimmedString.lastIndexOf(" ")))
+                            trimmedString = trimmedString.substr(0, Math.min(trimmedString.length, trimmedString.lastIndexOf("  ")))
                             output += '<p>' + trimmedString + '...</p>';
                             output += '</a></div>';
                             return k < 3;
