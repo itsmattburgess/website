@@ -1,6 +1,6 @@
-My personal website and resume hosted within S3.
+#My Personal WEBSITE and RESUME hosted within S3.
 
-## Compiling css
+## Compiling the css
 ```
 sass --watch css/main.scss:css/main.css --style compressed
 ```
